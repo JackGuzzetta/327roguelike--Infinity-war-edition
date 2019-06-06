@@ -1,0 +1,59 @@
+For this project I added some new functionality to our Roguelike game. As of now ranged combat is fully functional. To use a ranged weapon press 'p' and you will be brought to the targeting screen. 
+To fire your weapon target a monster within view and press 'g' or '.'. once an enemy is dead they will disapear as usual. In addition to this the PC can now restore health. Once a PC kills a monster
+he or she will absorbe the monsters health prior to the final blow. Lastly the PC is equipt with one very powerful spell that can be used by pressing 'S' (capital s). The "Ring of Fire" spell brings all enemies withing a 3 bit radious from you
+to an HP of 1. However you must be careful when preforming this spell since it will bring your own health down by 50%. Once the spell is used it cannot be used again until you have fully restored
+your health (1000hp). Becareful who you use the spell around. If it is used against the BOSS (in this case Thanos) then he will take 50% of you heath to become stronger.Other changes include 
+having a max health of 1000hp and health is now available at the bottom of the screen along with position. 
+
+NEW UPDATE:
+There are now two ways to end the game. The first is to battle Thanos. This is not recommended as he has incredible strength and just does not seem to die, thankfully he runs slow.
+It is said that the only weapon that stands a chance at defeting him is Mjonier, but unfortunatly it is lost and only shows up to those who earn it (it just has a very low rarrity).
+The other way to end the game is to beat Thanos to all the Infinity stones and snap before he can thus killing him wherever he is and restore balance to the universe. Infinity stones are a special 
+object. There are many of them (because its not easy to get to 6 of them) however once you add them to your gautlet they cannot be taken out or destroyed. To move an infinity stone from your
+inventory to the gauntlet press 'z' to look at your gauntlet press 's' to snap and end the game press the delete button. You cannot snap without all six stones.
+
+
+Controlls:
+Misc.
+'Q': Quits the game
+'L': Inspect monster
+'m': View list of nearby monsters
+'c': displays character information
+
+Movements:
+'7' or 'y': Moves the PC to the upper left
+'9' or 'u': Moves the PC to the upper right
+'4' or 'h': Moves the PC to the left
+'6' or 'l': Moves the PC to the right
+'2' or 'j': Moves the PC down
+'8' or 'k': Moves the PC up
+'1' or 'b': Moves the PC to the lower left
+'3' or 'n': Moves the PC to the lower right
+'5' or ' ': PC stays still for a turn
+'>': PC goes up stairs
+'<': Pc goes down stairs
+//Arrow Keys will also move the PC in the given direction
+
+Items:
+'w': Wears an item 
+'t': Removes an item
+'d': Drops an item
+'x': Destroys an item
+'i': Displays inventory
+'e': Displays equiptment
+'I': Inspect an item
+'s': View infinity gauntlet
+'z': Adds infinity stone to gauntlet
+
+Combat:
+Moving into an enemy initiates a close uup weapon attack.
+'p': Enter ranged combat (Only works if you have a ranged weapon equipt)
+'S': Use spell 
+DELETE BUTTON: Snaps to win the game (Only works with all infinity stones)
+
+Cheats:
+'g': Enters god mode
+'f': Turns off fog of war for one turn
+'T': Displays tunnel distances
+'D': Displays distance maps
+'H': Displays Hardness maps

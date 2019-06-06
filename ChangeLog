@@ -1,0 +1,48 @@
+1/25 - Map array created and is printable. Map has borders using $ no errors
+1/26 - createRooms() is added rooms are now generated and put into the rooms array 
+but do are unchecked for availability
+1/27 - renderRooms() created rooms in the rooms array are now printable but not yet able to
+check for availability
+1/28 - rewrote createRooms() with a if statement to check for availability however code is 
+getting a seg fault
+1/29 - More rewrites to create rooms map is now printing but will either get a seg fault or 
+infinate loop. no rooms will print.
+1/30 no time to work
+1/31 - fixed createRooms() and render() rooms will now print just fine, also added up and down 
+stairs 
+2/1 - worked on corridors and broke everything with no time to fix. Scraped most of what I wrote.
+2/3 Completed corredors with out errors
+2/4 - started working onload/ save mostly did research didn't get any coding done
+2/6 - added proper switches and PC
+2/7 - added hardness and tryed working on load with no sucess
+2/8 - got parts of load kinda working and gave up because im out of time and sorta depressedfrom this
+2/13 Officially started Dijstras with Proffessors code deleted neccecary for loops and added
+4 extra if statements to deal with corners
+2/14 worked a bit on nontunneling accidentaly got almost correct output for tunneling 
+2/19 finished tunneling map
+2/20 finished nontunneling/README/ChangeLog
+2/25 added a new struct to generate  monsters with
+2/26 added 16 if statements to give monsters a type
+2/27 waited too long to start and gave up a bit. 
+let it be known that the program will not crash 
+3/10 updated RLG327 to support ncurses
+3/11 Updated PC.c (next_pos) to support ncurses and constantly update
+3/12 updated dungeon generation so stuff will finaly output
+3/13 debugging trying to figure out this whole window situation
+3/26 Got my replacement laptop and had to start over dont have much time and 
+      Schaffer wont respond to my emails
+3/27 finished pipping to C++ and changing all structs to classes with the exception of heap
+4/1 began project/ created a new class for monster descriptions/ added a new method in rlg327 to deal with parsing/ created a file path
+4/2 got all characteristics to be parsed and printed except for descriptions
+4/3 got descriptions working and commented out neccecary parts of the main method/ all systems go
+4/11 Started created 2 new files for objects (object.cpp & object.h) then added a class to object.h
+to hold the values
+4/12 updated npc.h and wrote code into objects.cpp and npc.cpp code compiles but basically does
+nothing P.S. only had about 6 hours to work. Please be fair but merceful 
+4/15 added some buttons and methods with no insides really just sketched this one output
+4/16 added everything with inventory
+4/17 added everything with equiptment and fixed line number issue (slight errors)
+4/17 all buttons working 
+4/27 added ranged combat
+4/28 added spells and restoring health along with a few other small updates
+4/29 added infinty sones and snap
