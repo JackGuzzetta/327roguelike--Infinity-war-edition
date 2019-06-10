@@ -58,4 +58,26 @@ Cheats:
 'D': Displays distance maps
 'H': Displays Hardness maps
 
+KEY:
+Weapons: '|'
+Rings: '='
+Helmet: ']'
+Offhand: ')'
+Ranged: '}'
+Light: '~'
+Armor: '['
+Cloak: '('
+Gloves: '{'
+Boots: '\\'
+Amulet: '"'
+Scroll: '`'
+Book: '?'
+Gold: '$'
+Ammunition: '/'
+Food: ','
+Wand: '-'
+Container: '%'
+Infinity Stones: '!'
+Monsters: *Any Letters
+
 //Not all of this code came from me. This was a semester long project with weekly code drops from Jeremy Scheaffer
